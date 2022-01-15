@@ -1,1 +1,1 @@
-# Java_Basic_Program_Contact
+## Java basic program of Contact with inheritance, arraylist learned at globalIT
